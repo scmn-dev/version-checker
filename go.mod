@@ -1,4 +1,4 @@
-module github.com/secman-team/v_checker
+module github.com/secman-team/version-checker
 
 go 1.13
 
