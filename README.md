@@ -1,3 +1,3 @@
-# shell
+# V_Checker
 
-shell plugin 🔧
+version checker
