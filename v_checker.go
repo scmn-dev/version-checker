@@ -19,7 +19,7 @@ func Checker() {
 		$c = secman verx
 	
 		if ($l -ne $c) {
-			$nr = "there's a new release of secman is avalaible: "
+			$nr = "there's a new release of secman is avalaible:"
 			$up = "to upgrade run "
 			$smu = "sm-upg start"
 	
