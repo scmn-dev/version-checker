@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 	"runtime"
-	"github.com/secman-team/shell"
+	"github.com/scmn-dev/shell"
 	"github.com/briandowns/spinner"
-	commands "github.com/secman-team/secman/tools/constants"
+	commands "github.com/scmn-dev/secman/tools/constants"
 )
 
 func Checker() {
