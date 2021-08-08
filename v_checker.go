@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 	"runtime"
-	"github.com/scmn-dev/shell"
+	"github.com/abdfnx/shell"
 	"github.com/briandowns/spinner"
 	commands "github.com/scmn-dev/secman/tools/constants"
 )
